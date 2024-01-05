@@ -4,7 +4,9 @@
 
 Build your MVP in Rails.
 
-You already have a demo that you can port over. You know Rails. Your collaborators know Rails. You're going to get a proper CTO to rebuild you a full JavaScript stack later anyway.
+You already have a demo that you can port over. You know Rails. Your collaborators know Rails.
+
+You're going to get a proper CTO to rebuild you a full JavaScript stack later anyway.
 
 ## Testing 🧪
 
@@ -65,22 +67,22 @@ And some favourites:
 
 ## FAQs
 
-_What features/design elements do most web apps have that we didn’t have during demo days? i.e. what takes it to looking and working like a real site?_
+_**What features/design elements do most web apps have that we didn’t have during demo days? i.e. what takes it to looking and working like a real site?**_
 - As long as you have a core journey that fulfils your users’ jobs to be done, don't worry too much about this
 - Easy solution if you're worried about this is to buy a template for a few bucks
 - Remember you can improve this with usability testing later
 
-_Are there various benchmarks for web apps for things like number of pages, speed of load etc.?_
+_**Are there various benchmarks for web apps for things like number of pages, speed of load etc.?**_
 - Yes there are but as long as it’s not slowwww don't worry
 - Take a look at [website-response-times](https://www.nngroup.com/articles/website-response-times/) if you're interested
 - The stats you should really care about are "are people visiting my site" and eventually "which parts". You can start with stuff like google analytics, or Mixpanel. This being said, if you have < 100 customers, _talking_ to them is faster/easier
 
-_We didn’t touch questions like code scalability, production DB management, sourcing live data - are there tutorials/benchmarks for this?_
+_**We didn’t touch questions like code scalability, production DB management, sourcing live data - are there tutorials/benchmarks for this?**_
 - Scale is really about "burn that bridge when it will be needed". It's not now, or probably the next two years. It's a nice problem to have that can be solved by throwing money at it (i.e. hire a senior dev)
 - Here's a resource on [code scalability](https://www.devgraph.com/resource/developers-guide-scale-rails-apps/)
 - Live data comes from APIs, scraping or building manually - make a call what you need
 
-_What about cybersecurity, customer data management (GDPR) etc._
+_**What about cybersecurity, customer data management (GDPR) etc.**_
 - Don't worry too much about cybersecurity for now but here are some general principles:
 	- Keep dependencies updated
 	- Ensure you use HTTPS
@@ -89,7 +91,7 @@ _What about cybersecurity, customer data management (GDPR) etc._
 	- Avoid using raw SQL queries to prevent SQL injections
 - On GDPR, understand the principles and read [this resource for startups](https://www.cookieyes.com/blog/gdpr-compliance-for-startups/)
 
-_Are there a common list of gems that ruby apps will typically install?_
+_**Are there a common list of gems that ruby apps will typically install?**_
 - Yes and [here are some](https://taglineinfotech.com/ruby-on-rails-gems/#What_is_Ruby_Gem_Used_For)
 - General principle is to only use Gems when you need them
 - Remember they are also a dependency for your app

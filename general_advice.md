@@ -36,7 +36,7 @@ Work with others. Reach out to others continuing their projects, start your own 
 
 ## Key resources 🔑
 
-See here 👉 (From Demo to MVP 🚀)[from_demo_to_mvp.md]
+**See here 👉 [From Demo to MVP 🚀](from_demo_to_mvp.md)**
 
 ## Further resources 👍
 

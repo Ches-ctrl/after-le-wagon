@@ -57,21 +57,21 @@ You'll also need to learn about the business of startups:
 
 Great, you've validated your product, outlined the business and learned about startups. Now you actually want to get building.
 
-Read this 👉 (From Demo to MVP 🚀)[from_demo_to_mvp.md]
+**Read this 👉 [From Demo to MVP 🚀](from_demo_to_mvp.md)**
 
 ## Find collaborators 👯‍♀️
 
-* Work with others, it's much more fun! You've just graduated with a load of other developers keen to improve their skills. Share your project and see if you can get others excited about it. Remember you're just working on a side project until you have users/customers.
+* Work with others, it's much more fun! You've just graduated with a load of other developers keen to improve their skills after all. Share your project and see if you can get others excited about it. Remember you're just working on a side project until you have users/customers.
 
 ## General advice 📣
 
 If you're just looking for general advice after finishing Le Wagon:
-* [after-le-wagon by Damien Le Thiec](https://github.com/damienlethiec/after-le-wagon) was a great inspiration for this
-* [general advice](general_advice.md) gives advice on what and how to continue learning
+* [after-le-wagon by Damien Le Thiec](https://github.com/damienlethiec/after-le-wagon) - a great inspiration for this
+* [general advice](general_advice.md) - advice on what and how to continue learning
 
 ## Further resources 📝
 
-See here 👉 (From Demo to MVP 🚀)[from_demo_to_mvp.md]
+**See here 👉 [From Demo to MVP 🚀](from_demo_to_mvp.md)**
 
 ## Contributing 👏
 
