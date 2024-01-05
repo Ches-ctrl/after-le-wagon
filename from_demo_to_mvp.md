@@ -9,10 +9,10 @@ You already have a demo that you can port over. You know Rails. Your collaborato
 ## Testing 🧪
 
 * You didn't learn about testing during the Bootcamp. This is key. Have a watch of this [Le Wagon lecture](https://kitt.lewagon.com/knowledge/tutorials/rails_testing).
-* And stop any timing issues with [capybara-lockstep](https://github.com/makandra/capybara-lockstep)
 
 ## Rails Templates 👷
 
+* [rails-templates](https://github.com/lewagon/rails-templates) - Le Wagon's own
 * [modern-rails-templates](https://github.com/damienlethiec/modern-rails-template) - a little old but some great gems/ideas
 * [rails-composer](https://github.com/RailsApps/rails-composer) - same as above
 
@@ -39,43 +39,46 @@ And some favourites:
 * [huginn](https://github.com/huginn/huginn) - automated agents
 * [derailed_benchmarks](https://github.com/zombocom/derailed_benchmarks) - performance benchmarks
 * [brakeman](https://github.com/presidentbeef/brakeman) - security for rails
-
-## Things that can wait for later
-
-* TODO
+* [caxlsx](https://github.com/caxlsx/caxlsx) - xlsx generator
+* [ahoy_email](https://github.com/ankane/ahoy_email) - first-party email analytics
 
 ## Key Providers
+
+Some great lists:
+* [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
+* [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits)
+
+And some favourites:
 * [Vercel](https://vercel.com/) - PaaS
-* [Stripe](https://stripe.com/gb) - Payments
-* [Linear](https://linear.app/) - Issue tracking
-* [Google Analytics](https://marketingplatform.google.com/intl/en_uk/about/analytics/) - Web traffic
-* [Hotjar](https://www.hotjar.com/) - User behaviour
-* [Mixpanel]() - site analytics
-* []() -
-* []() -
-* []() -
+* [Stripe](https://stripe.com/gb) - payments
+* [Linear](https://linear.app/) - issue tracking
+* [Google Analytics](https://marketingplatform.google.com/intl/en_uk/about/analytics/) - web traffic
+* [Mixpanel](https://mixpanel.com/) - site analytics
+* [Hotjar](https://www.hotjar.com/) - user behaviour
 
 ## Further resources 📝
 
 * [ByteByteGo newsletter](https://bytebytego.com/)
+* [Ruby Weekly newsletter](https://rubyweekly.com/)
+* [JavaScript Weekly newsletter](https://javascriptweekly.com/)
 * [awesome-web-design](https://github.com/nicolesaidy/awesome-web-design)
 
 ## FAQs
 
 _What features/design elements do most web apps have that we didn’t have during demo days? i.e. what takes it to looking and working like a real site?_
-- As long as you have a core journey that fulfils your users’ jobs to be done, don't worry too much about this.
+- As long as you have a core journey that fulfils your users’ jobs to be done, don't worry too much about this
 - Easy solution if you're worried about this is to buy a template for a few bucks
 - Remember you can improve this with usability testing later
 
 _Are there various benchmarks for web apps for things like number of pages, speed of load etc.?_
-- Yes there are but as long as it’s not slowwww don't worry. 
-- Take a look at [https://www.nngroup.com/articles/website-response-times/](https://www.nngroup.com/articles/website-response-times/) if you're interested
+- Yes there are but as long as it’s not slowwww don't worry
+- Take a look at [website-response-times](https://www.nngroup.com/articles/website-response-times/) if you're interested
 - The stats you should really care about are "are people visiting my site" and eventually "which parts". You can start with stuff like google analytics, or Mixpanel. This being said, if you have < 100 customers, _talking_ to them is faster/easier
 
 _We didn’t touch questions like code scalability, production DB management, sourcing live data - are there tutorials/benchmarks for this?_
-- Good questions but ones to worry about later
 - Scale is really about "burn that bridge when it will be needed". It's not now, or probably the next two years. It's a nice problem to have that can be solved by throwing money at it (i.e. hire a senior dev)
-- Resource on [code scalability](https://www.devgraph.com/resource/developers-guide-scale-rails-apps/)
+- Here's a resource on [code scalability](https://www.devgraph.com/resource/developers-guide-scale-rails-apps/)
+- Live data comes from APIs, scraping or building manually - make a call what you need
 
 _What about cybersecurity, customer data management (GDPR) etc._
 - Don't worry too much about cybersecurity for now but here are some general principles:

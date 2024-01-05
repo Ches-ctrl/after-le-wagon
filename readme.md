@@ -6,7 +6,7 @@ Hi 👋 and thanks for dropping by
 
 ## Who you are 🙋
 
-You're an aspiring tech founder who's just finished Le Wagon's 9-weeks of intensity and fun (congrats on becoming a Full Stack Developer!). Now you're wondering - what next?. Unlike career switches, the roadmap for starting a business is much less clear... read on for the answer.
+You're an aspiring tech founder who's just finished Le Wagon's 9-weeks of intensity and fun (congrats on becoming a Full Stack Developer!). Now you're wondering - what next?. Unlike career switches, the roadmap for starting a business is much less clear... so read on.
 
 ## The Entrepreneurship Roadmap 🛣️
 
@@ -39,7 +39,7 @@ General principles:
 
 A product is not a business. Now you need to design the business that goes with your product.
 
-Here are some starting points:
+Follow these frameworks:
 * [The Business Model Canvas](https://assets.strategyzer.com/assets/resources/the-business-model-canvas.pdf)
 * [Business Plan Template](https://www.princes-trust.org.uk/how-we-can-help/tools-resources/business-tools/business-plans)
 
@@ -47,10 +47,11 @@ Basically, do this! Although this paragraph is short, this is a long process of 
 
 ## Learning about startups 📈
 
-You'll need to learn about the business of startups:
+You'll also need to learn about the business of startups:
 * [YC Startup School](https://www.startupschool.org/) (listen as a [Spotify Playlist](https://open.spotify.com/playlist/7IUwR6O3h4zPLqLWBx10w8?si=8c25483af42e465e))
 * [Antler Academy](https://www.antler.co/academy)
 * [Le Wagon Founders Program](https://lewagon.notion.site/Founders-Program-b74a60a704e3489c9b1c18398500c10a#a82960ce51264eb28f2f2255e566e924)
+* There are many other equivalent libraries...
 
 ## The next technical steps 🪜
 
@@ -70,10 +71,7 @@ If you're just looking for general advice after finishing Le Wagon:
 
 ## Further resources 📝
 
-General point - make sure to get all the startup freebies available!
-* [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list)
-* [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits)
-* [Strategyzer](https://www.strategyzer.com/)
+See here 👉 (From Demo to MVP 🚀)[from_demo_to_mvp.md]
 
 ## Contributing 👏
 
