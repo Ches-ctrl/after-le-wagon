@@ -15,6 +15,9 @@ You're going to get a proper CTO to rebuild you a full JavaScript stack later an
 ## Rails Templates 👷
 
 * [rails-templates](https://github.com/lewagon/rails-templates) - Le Wagon's own
+* [templatus-hotwire](https://github.com/templatus/templatus-hotwire) - with hotwire
+* [templatus-vue](https://github.com/templatus/templatus-vue) - with vue
+* [templatus-inertia](https://github.com/templatus/templatus-inertia) - with inertia
 * [modern-rails-templates](https://github.com/damienlethiec/modern-rails-template) - a little old but some great gems/ideas
 * [rails-composer](https://github.com/RailsApps/rails-composer) - same as above
 
