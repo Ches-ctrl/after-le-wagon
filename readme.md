@@ -1,7 +1,5 @@
 # After Le Wagon 🚙 - The Roadmap For Founders
 
-== NB. This is an in-progress draft ==
-
 Hi 👋 and thanks for dropping by
 
 ## Who you are 🙋
