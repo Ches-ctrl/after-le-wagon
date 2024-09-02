@@ -20,6 +20,7 @@ You're going to get a proper CTO to rebuild you a full JavaScript stack later an
 * [templatus-inertia](https://github.com/templatus/templatus-inertia) - with inertia
 * [modern-rails-templates](https://github.com/damienlethiec/modern-rails-template) - a little old but some great gems/ideas
 * [rails-composer](https://github.com/RailsApps/rails-composer) - same as above
+* [suspenders](https://github.com/thoughtbot/suspenders) - thoughtbot's standard template
 
 ## Cool libraries 🤖
 
