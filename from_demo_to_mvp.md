@@ -14,13 +14,16 @@ You're going to get a proper CTO to rebuild you a full JavaScript stack later an
 
 ## Rails Templates 👷
 
-* [rails-templates](https://github.com/lewagon/rails-templates) - Le Wagon's own
-* [templatus-hotwire](https://github.com/templatus/templatus-hotwire) - with hotwire
-* [templatus-vue](https://github.com/templatus/templatus-vue) - with vue
-* [templatus-inertia](https://github.com/templatus/templatus-inertia) - with inertia
-* [modern-rails-templates](https://github.com/damienlethiec/modern-rails-template) - a little old but some great gems/ideas
-* [rails-composer](https://github.com/RailsApps/rails-composer) - same as above
-* [suspenders](https://github.com/thoughtbot/suspenders) - thoughtbot's standard template
+* [rails-templates](https://github.com/lewagon/rails-templates) - Le Wagon's own ('24)
+* [templatus-hotwire](https://github.com/templatus/templatus-hotwire) - with hotwire ('23)
+* [templatus-vue](https://github.com/templatus/templatus-vue) - with vue ('23)
+* [templatus-inertia](https://github.com/templatus/templatus-inertia) - with inertia ('23)
+* [modern-rails-templates](https://github.com/damienlethiec/modern-rails-template) - a little old but some great gems/ideas ('18)
+* [rails-composer](https://github.com/RailsApps/rails-composer) - same as above ('18)
+* [suspenders](https://github.com/thoughtbot/suspenders) - thoughtbot's standard template ('24)
+* [daisy-on-rails](https://github.com/adrienpoly/daisy-on-rails) - daisy on rails ('24)
+* [bullet_train](https://github.com/bullet-train-co/bullet_train) - bullet_train ('24)
+* [nextgen](https://github.com/mattbrictson/nextgen) - with vite support ('24)
 
 ## Cool libraries 🤖
 
