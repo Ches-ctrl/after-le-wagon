@@ -2,6 +2,12 @@
 
 ## What to build in 🏗️
 
+Can you build it using off-the-shelf software? It's highly likely you can. Some of the best at the moment:
+* [Framer](https://www.framer.com/)
+* [Webflow](https://webflow.com/)
+
+More complex than that?
+
 Build your MVP in Rails.
 
 You already have a demo that you can port over. You know Rails. Your collaborators know Rails.
